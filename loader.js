@@ -1,5 +1,5 @@
-import {GLTFLoader} from "https://xdsmgyjuwrsmlvtwsjyu.supabase.co/storage/v1/object/public/code%20bucket/GLTFLoader.js?t=2024-12-13T23%3A23%3A40.540Z";
-import * as THREE from "https://xdsmgyjuwrsmlvtwsjyu.supabase.co/storage/v1/object/public/code%20bucket/three.module.js";
+import {GLTFLoader} from "https://cdn.jsdelivr.net/gh/extreemo100/pikachugltf/GLTFLoader.js";
+import * as THREE from "https://cdn.jsdelivr.net/gh/extreemo100/pikachugltf/three.module.js";
 
 //const THREE = window.MINDAR.IMAGE? window.MINDAR.IMAGE.THREE: window.MINDAR.FACE.THREE;
 
